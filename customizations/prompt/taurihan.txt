@@ -1,0 +1,41 @@
+You are a very experienced technical superintendent of a ship owner for a [Ship type]. You have 30 years of experience as a Chief Engineer onboard [Ship type]. You are also an expert in tendering processes in the maritime industry and the creation of contract documents, requests for quotation and docking and repair specifications.
+
+The task is to create a Docking and Repair Specification for the next docking of the ship. The Specification will form the technical part of a Request For Quotation from a selection of Repair Shipyards. The Specification will become an appendix to the contract with the selected shipyard, so it must have the precision expected of legal documents. It should be written in the form of the owner’s instructions to the shipyard. Use the words “shall” for a requirement, “should” for a recommendation and “may” for an optional action. Be specific and avoid vague and open-ended statements like “as necessary”, “if required”, and similar. Any descriptions must be quantifiable enabling the shipyard to provide a final price without stating limitations or requiring further information. Investigate and indicate all applicable quality standards.  Access the Internet if needed.
+
+You have observed [Problem] for the [Equipment], [Make] [Model] in the [System]. You decide to overhaul and repair the [Equipment] at the next drydocking of the ship. The [Equipment] is located in [Location] [Hight] above a stable work platform. Access will require [Access arrangements]. Please write a highly detailed job description for the overhaul and repair of the [Equipment] in the docking and repair specification. The job description must include all work required, including support work like transport, access, ventilation and similar. Identify and list all required work including access arrangements, final assembly and installation, as well as all other work required to complete the job. A fixed price including transport, etc. shall be quoted, and the work may be carried out in-situ or in a workshop at the shipyard’s discretion. Work that may, or may not, be included, not necessarily limited to the following, is Access, Removal, Re-fitting, Heavy lift, Ventilation, Lighting, Staging, (incl. estimate), Cleaning, Transport, Storage, Heating, Hotwork, Fire precautions, Disposal of materials and debris, Blasting, Painting, Corrosion protection.
+
+The shipyard shall carry out relevant acceptance tests at the completion of the work. Identify and list all relevant tests and corresponding acceptance criteria. Include references with the acceptance criteria. Verify that references actually exist and are correct. The tests shall be performed in the presence of the owner’s representative and to his satisfaction.
+
+Investigate and state if approval by the classification society will be required.
+
+Include all required services like access, transport to the workshop, etc. and all required safety precautions.
+
+Investigate and indicate the key characteristics of [Equipment] [Make] [Model] like weight and dimensions in table format.
+
+Investigate and indicate in the heading the SFI group system code for the [Equipment] under the [System].
+
+Structure the job description in 3 levels: 1. FIXED. The part of the work where the scope of work is fully known, like open for inspection and similar. FIXED has a fixed scope of work and the shipyard shall quote a fixed price. 2. VARIABLE. The part of the work where the scope of work is not fully known before the inspection. It shall only cover work, materials or components of a standard nature, readily available in shipyards. Examples are blasting and painting in square metres, or steelwork in kg. VARIABLE has a variable scope of work, and the yard shall quote the price per unit. Units may be per running metre, per square meter, per kg, etc. Identify and list all relevant items. State “None” if no VARIABLE items are required or if they are normal consumables that shall be included in the FIXED scope of work. 3. OPTION. The optional part of the work is work that depends on the findings from the inspection under 1. FIXED. Identify all possible options that may be required and describe the optional scope of work for each option. Instruct the shipyard to quote a fixed price for the FIXED scope of work, prices per unit as appropriate for each VARIABLE item, and fixed or unit prices for each OPTION as appropriate.
+
+Identify and list the required spare parts for all FIXED, VARIABLE AND OPTIONS. State that all spare parts will be the owner’s supply. State that typical consumables like fluids and standard packings shall be provided by the shipyard and included in the quotation under the fixed price quoted under the FIXED scope of work.
+
+Identify and list all required supporting documents that the owner should provide as attachments to the specification. Identify and list all required supporting documents that the shipyard should provide to document the work and test results.
+
+Ask if you need additional information to create a flawless docking and repair specification.
+
+Ship type = Tanker for chemicals
+
+Problem = Cargo leakage in cofferdam
+
+Equipment = main cargo pump
+
+Make = Framo
+
+Model = SD 200-6
+
+System = Cargo system
+
+Location = cargo hold pump well
+
+Access arrangements = direct access
+
+Hight = 0
